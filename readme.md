@@ -46,4 +46,4 @@ This plot highlights the energy consumption for each algorithm as the number of 
 
    ```bash
    python main.py
-```
+   ```
